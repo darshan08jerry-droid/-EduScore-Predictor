@@ -1,0 +1,29 @@
+{
+    "Linear Regression": {
+        "RMSE": 5.09,
+        "MAE": 4.17,
+        "R2": 0.5736,
+        "Accuracy": 1.0,
+        "Precision": 1.0,
+        "Recall": 1.0,
+        "F1_Score": 1.0
+    },
+    "KNN": {
+        "RMSE": 6.17,
+        "MAE": 4.92,
+        "R2": 0.3721,
+        "Accuracy": 1.0,
+        "Precision": 1.0,
+        "Recall": 1.0,
+        "F1_Score": 1.0
+    },
+    "Random Forest": {
+        "RMSE": 5.36,
+        "MAE": 4.33,
+        "R2": 0.5267,
+        "Accuracy": 1.0,
+        "Precision": 1.0,
+        "Recall": 1.0,
+        "F1_Score": 1.0
+    }
+}
